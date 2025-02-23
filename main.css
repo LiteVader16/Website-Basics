@@ -1,0 +1,14 @@
+h1,h2{
+    font-size: 100px;
+    color:#81a7a7;
+    background-color: antiquewhite;
+}
+p{
+    font-size: 2vw;
+    color: #a44e4e;
+    font-style: italic;
+}
+.redheaded{
+    color: #6c1818;
+    font-display: serif;
+}
